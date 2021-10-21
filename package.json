@@ -1,0 +1,7 @@
+{
+  "type": "module",
+  "devDependencies": {
+    "typescript": "4.4.4",
+    "@types/node": "16.11.1"
+  }
+}

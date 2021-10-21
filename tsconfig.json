@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "outDir": "./dummy",
+    "target": "ES6",
+    "lib": ["ES6"],
+    "checkJs": true,
+    "allowJs": true,
+    "skipLibCheck": true,
+    "moduleResolution": "node",
+    "strictNullChecks": true,
+    "allowSyntheticDefaultImports": true
+  },
+  "exclude": [
+      "node_modules"
+  ],
+  "include": [
+    "lib/**/*.js"
+  ]
+}
